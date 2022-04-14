@@ -1,0 +1,31 @@
+.hello{
+    background-color: blueviolet;
+    padding: 10px 0px;
+    color: aliceblue;
+    text-transform: uppercase;
+    text-align: center;
+}
+.card{
+    background-color: bisque;
+    width: 31%;
+    padding: 0px 5px;
+    text-transform: capitalize;
+    text-align: center;
+    box-shadow: 2px 4px 4px gray;
+    border-radius: 5px;
+    margin: 0px 5px;
+    float: left;
+    margin-bottom: 15px;
+}
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+.todaysDate{
+    text-align: left;
+    text-align: left;
+}
+.dateAndTime{
+    text-align: left;
+    font-weight: 700;
+}
